@@ -1,0 +1,1 @@
+java -Dfile.encoding=UTF-8 -classpath out/production/ByteBufferPerformance com.test.bytebuffer.ByteBufferBenchmark
