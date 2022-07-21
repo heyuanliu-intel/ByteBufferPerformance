@@ -67,7 +67,7 @@ Requests/sec: 417646.32
 Transfer/sec:     62.53MB
 </pre>
 
-So based on the result, we can get the 4X performance improvement between native and pool based methods.
+So based on the result, we can get the 4X performance improvement from pool based methods.
 
 |   Attempt    | #native  | #pool based | improvement |
 | :----------: | :------: | :---------: | :---------: |
